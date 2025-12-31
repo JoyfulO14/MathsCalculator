@@ -1,0 +1,31 @@
+body {
+	text-align: center;
+	background-color: blueviolet;
+	box-sizing: border-box;
+	font-size: 30px;
+}
+.main {
+	float: centre;
+	display: block;
+.textbox {
+	width: 450px;
+}
+button {
+	height: 90px;
+	width: 90px;
+}
+.button {
+	background-color: white;
+	color: black;
+}
+.buttonclear {
+    background-color: red;
+}
+.buttonclear:hover {
+	background-color: darkred;
+}
+button:hover {
+    background-color: darkgray;
+}
+
+
